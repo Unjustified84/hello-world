@@ -1,6 +1,6 @@
 # hello-world
 just a simple rep
 
-Not sure what to do....
+maybe some python stuff?
 
-Need project idea's 
+A calc maybe?
